@@ -1,5 +1,5 @@
 # BashScripting
-Bash Scripting Works for Windows 
+Bash Scripting for Windows
 
 Contributor(s) 
 - Ashwin Kumar R 
